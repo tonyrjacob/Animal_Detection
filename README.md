@@ -7,7 +7,7 @@
 <img width="1064" alt="image" src="https://github.com/tonyrjacob/Animal_Detection/assets/74695661/2ae2993a-0516-4596-b480-5f254bfda0e5">
 <img width="1063" alt="image" src="https://github.com/tonyrjacob/Animal_Detection/assets/74695661/09267cde-ebc8-4b0d-8286-15483b76231c">
 
-##Interface
+## Interface
 
 
 
